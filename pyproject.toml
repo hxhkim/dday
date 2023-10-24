@@ -1,6 +1,6 @@
 [project]
 name = "dday"
-version = "1.0.0"
+version = "1.0.1"
 description = "Showing how many days are remaining till project d-day."
 authors = [
     {name = "hxhkim", email = "hahyun.h.kim@gmail.com"},
