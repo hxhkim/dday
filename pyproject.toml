@@ -1,0 +1,15 @@
+[project]
+name = "dday"
+version = "0.1.0"
+description = "Showing how many days are remaining till project d-day."
+authors = [
+    {name = "hxhkim", email = "hahyun.h.kim@gmail.com"},
+]
+dependencies = []
+requires-python = ">=3.8"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
