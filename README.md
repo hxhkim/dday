@@ -33,7 +33,7 @@ $ pytest -s
 $ pytest --cov
 ```
 
-# DEPLOY
+## DEPLOY
 ```bash
 $ pdm publish
 ```
