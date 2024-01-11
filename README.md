@@ -3,7 +3,7 @@
 - Useful tool to set up in your shell.
 - view at: https://pypi.org/project/dday/
 
-## INATALL
+## INSTALL
 ```bash
 pip install dday
 ```
